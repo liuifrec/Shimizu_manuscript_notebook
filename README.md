@@ -1,4 +1,4 @@
-# Taniguchi_manuscript_notebooks
+# Shimizu_manuscript_notebooks
 The repository contains the scripts used in the study of Shimizu et al. to process the BD Rhapsody™ Analysis pipelines for sequencing on the Seven. Bridges Genomics platform.
 For the original ipynb file size over 100MB, the scripts were deposited in .py format.
 
